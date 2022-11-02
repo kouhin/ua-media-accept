@@ -1,7 +1,7 @@
 {
   "name": "ua-media-accept",
   "description": "Generate accept header for media (image) by user-agent",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Bin Hou <houbin217jz@gmail.com>",
   "dependencies": {
     "@kouhin/caniuse-support": "^1.4.0"
@@ -13,7 +13,7 @@
   },
   "exports": {
     "types": "./dist/ua-media-accept.d.ts",
-    "require": "./dist/ua-media-accept.js",
+    "require": "./dist/ua-media-accept.cjs",
     "default": "./dist/ua-media-accept.modern.mjs"
   },
   "files": [
@@ -21,7 +21,7 @@
     "src"
   ],
   "license": "MIT",
-  "main": "./dist/ua-media-accept.js",
+  "main": "./dist/ua-media-accept.cjs",
   "module": "dist/ua-media-accept.mjs",
   "scripts": {
     "build": "microbundle",
