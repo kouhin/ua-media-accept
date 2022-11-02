@@ -1,7 +1,7 @@
 {
   "name": "ua-media-accept",
   "description": "Generate accept header for media (image) by user-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Bin Hou <houbin217jz@gmail.com>",
   "dependencies": {
     "@kouhin/caniuse-support": "^1.4.0"
