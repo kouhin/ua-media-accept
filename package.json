@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Generate accept header for media (image) by user-agent",
   "type": "module",
-  "source": "src/ua-media-accept.js",
+  "source": "src/ua-media-accept.ts",
   "main": "./dist/ua-media-accept.js",
   "umd:main": "dist/ua-media-accept.umd.js",
   "module": "dist/ua-media-accept.mjs",
