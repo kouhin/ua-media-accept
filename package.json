@@ -1,6 +1,6 @@
 {
   "name": "ua-media-accept",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate accept header for media (image) by user-agent",
   "type": "module",
   "source": "src/ua-media-accept.ts",
